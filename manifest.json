@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "New Tab Page",
+  "version": "0.0.2",
+  "author": "Ramkumar K R",
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  },
+  "description":"Go to https://github.com/ramkumar-kr/New-Tab-Page for more details",
+  "offline_enabled": true,
+  "permissions": ["tabs"]
+
+}

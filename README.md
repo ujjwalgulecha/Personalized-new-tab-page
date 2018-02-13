@@ -1,7 +1,9 @@
 # New-Tab-Page
 This is a static webpage created by me to use it as a new tab page in my browsers across devices. I have used minified bootstrap css for styling.
 Procedure to set this as new tab for different browsers are given below.
+
 ###Chrome
+--------
 * Download the folder
 * Go to Extensions Tab(the tab above settings when you visit the settings page)
 * Enable Developer mode by checking the box on top right

@@ -5,7 +5,9 @@ I have used minified bootstrap css for styling.
 <br>
 Procedure to set this as new tab for different browsers are given below.
 <br>
+
 ### Chrome
+--------
 * Download the folder
 * Go to Extensions Tab(the tab above settings when you visit the settings page)
 * Enable Developer mode by checking the box on top right
